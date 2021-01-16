@@ -4,3 +4,4 @@
 2. run "composer install"
 3. configure .env file with local environtment
 4. run "php artisan migrate:fresh --seed"
+5. run "php artisan serve"
